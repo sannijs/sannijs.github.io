@@ -4,7 +4,7 @@ import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import Home from './components/Home';
 import About from './components/About.js';
-import Projects from './components/Projects.js/index.js';
+import Projects from './components/Projects';
 import Contact from './components/Contact';
 
 
