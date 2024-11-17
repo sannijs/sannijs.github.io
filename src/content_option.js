@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop better life",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://github.com/sannijs/sannijs.github.io/blob/main/janiBlue.jpeg?raw=true",
+    your_img_url: "https://github.com/sannijs/img/blob/main/WhatsApp%20Image%202024-11-17%20at%2004.04.54.jpeg?raw=true",
 };
 
 const dataabout = {
