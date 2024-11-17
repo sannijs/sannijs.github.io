@@ -7,11 +7,11 @@ const meta = {
 const introdata = {
     title: "Sannijs R Bondars",
     animated: {
-        first: "I love it",
-        second: "I i try to create ",
-        third: "I develop better life",
+        first: "Driven by curiosity",
+        second: "Fueled by coffee",
+        third: "Building for the future",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I'm Sannijs Reinholds Bondars, a junior programmer exploring graphic design to combine technical skills with creativity. I love hackathons. I aim to grow as both a developer and designer!",
     your_img_url: "https://github.com/sannijs/img/blob/main/WhatsApp%20Image%202024-11-17%20at%2004.04.54.jpeg?raw=true",
 };
 
