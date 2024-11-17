@@ -8,11 +8,11 @@ const introdata = {
     title: "Sannijs R Bondars",
     animated: {
         first: "I love it",
-        second: "I create something fun ",
+        second: "I i try to create ",
         third: "I develop better life",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://github.com/sannijs/img/blob/main/Mask%20group.png?raw=true",
+    your_img_url: "https://github.com/sannijs/sannijs.github.io/blob/main/janiBlue.jpeg?raw=true",
 };
 
 const dataabout = {
@@ -41,7 +41,7 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Djano",
+        name: "Django",
         value: 85,
     },
     {
@@ -73,14 +73,15 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://github.com/sannijs/img/blob/main/project3.png?raw=true",
+        description: "This is a simple, web-based stopwatch. Github:https://github.com/sannijs/stopwatch",
+        link: "http://stopwatch-snowy.vercel.app/",
+        link: "http://stopwatch-snowy.vercel.app/",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://picsum.photos/400/?grayscale",
+        description: "Optimized for both desktop and mobile devices for on-the-go banking.",
+        link: "https://banking-six.vercel.app/",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
@@ -93,12 +94,12 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
+        img: "https://picsum.photos/400/700/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
+        img: "https://github.com/sannijs/img/blob/main/project1.png?raw=true",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
@@ -136,14 +137,14 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "sannijs.bondars123@gmail.com",
+    YOUR_FONE: "(+371) 20639443",
+    description: "Feel free to reach out for collaborations or just a friendly chat!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_3ybhx4l",
+    YOUR_TEMPLATE_ID: "template_nr4pz88",
+    YOUR_USER_ID: "tYd1ydK7u6-3AeLZi",
 };
 
 const socialprofils = {

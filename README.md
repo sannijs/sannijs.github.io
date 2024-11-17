@@ -1,1 +1,2 @@
-### Description
+1. About Me
+"Hi, I’m neWbie... a junior web developer and graphic designer with a passion for creating visually engaging and user-friendly experiences. My journey into the world of design and development started with a curiosity for how things work on the web and grew into a commitment to combine functionality with creativity. I specialize in front-end development and visual design, focusing on bringing ideas to life through clean code and captivating visuals."
