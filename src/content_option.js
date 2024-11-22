@@ -7,42 +7,44 @@ const meta = {
 const introdata = {
     title: "Sannijs R. Bondars",
     animated: {
-        first: "Driven by curiosity",
-        second: "Fueled by coffee",
+        first: "Junior Web Developer",
+        second: "Junior Graphic Designer",
         third: "Building for the future",
     },
-    description: "Sannijs Reinholds Bondars, a junior programmer exploring graphic design to combine technical skills with creativity. I love hackathons. I aim to grow as both a developer and designer!",
+    description: "Sannijs Reinholds Bondars, a junior programmer exploring graphic design to combine technical skills with creativity. I love hackathons. I aim to grow as both as a developer and designer!",
     your_img_url: "https://github.com/sannijs/img/blob/main/WhatsApp%20Image%202024-11-17%20at%2004.04.54.jpeg?raw=true",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I am an RTK student, a junior programmer, and a graphic designer. I thrive on creativity and problem-solving, combining my technical skills and artistic vision to craft engaging designs and innovative software solutions. My passion for learning and growth drives me to constantly explore new challenges and opportunities in technology and design.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Spotlock",
+        date: "2022 / 2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Freelancer",
+        date: "2022 / 2023",
     },
     {
-        jobtitle: "Designer of week",
+        jobtitle: "McDonalds",
         where: "ALquds",
-        date: "2019",
+        date: "2023 / 2024",
     },
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
+        name: "Bootstrap",
+        value: 80,
     },
     {
-        name: "Django",
-        value: 85,
+        name: "Figma",
+        value: 95,
+    },
+    {
+        name: "HTML/CSS",
+        value: 95,
     },
     {
         name: "Javascript",
@@ -52,19 +54,15 @@ const skills = [{
         name: "React",
         value: 60,
     },
-    {
-        name: "Jquery",
-        value: 85,
-    },
 ];
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "Create user interface designs for websites and applications using Figma.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Simple Web Development",
+        description: "Ensure cross-browser compatibility and optimization for all devices.",
     },
     {
         title: "Wordpress Design",
